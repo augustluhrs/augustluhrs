@@ -1,4 +1,6 @@
-### Hi there 👋
+# 🌱 🐸 🌵
+
+![Profile views](https://gpvc.arturio.dev/augustluhrs)
 
 <!--
 **augustluhrs/augustluhrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
