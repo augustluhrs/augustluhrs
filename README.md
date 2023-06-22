@@ -1,6 +1,7 @@
 # 🌱 🐸 🌵
 
-![Profile views](https://gpvc.arturio.dev/augustluhrs)
+<!--[Profile views](https://gpvc.arturio.dev/augustluhrs)
+![Profile Views](https://komarev.com/ghpvc/?username=augustluhrs&color=yellowgreen)-->
 
 [![August's github stats](https://github-readme-stats.vercel.app/api?username=augustluhrs&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
